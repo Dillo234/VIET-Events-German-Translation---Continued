@@ -2,7 +2,7 @@
 
  # Artifact Events (Both Old and New Combined)
 
- VIETmisc.5000.t:0 "The Abacus"
+ VIETmisc.5000.t:0 "The Abacus" #test
  VIETmisc.5000.desc:0 "A merchant I am acquainted with has recently decided to retire. He is growing old now and is becoming less involved in the world of commerce, and has made enough money over the years to retire comfortably.\n\nAnyways, I was visiting him today, and he offered to sell me his trusted abacus. He thinks it will better serve me in my work."
  VIETmisc.5000.a:0 "I will gladly take it - you have a deal!"
  VIETmisc.5000.b:0 "I could do the work myself without this contraption."
